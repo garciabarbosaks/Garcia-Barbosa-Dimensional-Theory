@@ -4,8 +4,8 @@ Teoría de Dimensiones Perceptuales Alternantes - Patrón 1E-2E-3E-4T-5E-6T...
 
 **Autor:** Kevin Sebastian García Barbosa  
 **Fecha de concepción:** 03 de Enero de 2025  
-**Registro formal:** $04 de Enero de 2025
-**Contacto:** $ garciabarbosa.ks@gmail.com
+**Registro formal:** 04 de Enero de 2025
+**Contacto:** garciabarbosa.ks@gmail.com
 **Estado:** Desarrollo activo - Todos los derechos reservados
 
 ---
